@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Agent Toolkit — Zero-dependency CLI tools for AI developers</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif; background: #0d1117; color: #c9d1d9; line-height: 1.6; }
+        .container { max-width: 780px; margin: 0 auto; padding: 40px 20px; }
+        h1 { font-size: 2.5em; color: #58a6ff; margin-bottom: 10px; }
+        h2 { color: #f0883e; margin: 30px 0 15px; }
+        .tagline { font-size: 1.3em; color: #8b949e; margin-bottom: 30px; }
+        pre { background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 16px; margin: 15px 0; overflow-x: auto; }
+        code { font-family: 'SF Mono', 'Fira Code', monospace; font-size: 0.9em; }
+        .btn { display: inline-block; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: 600; margin: 8px 8px 8px 0; }
+        .btn-buy { background: #238636; color: #fff; }
+        .btn-buy:hover { background: #2ea043; }
+        .btn-gh { background: #21262d; color: #c9d1d9; border: 1px solid #30363d; }
+        .btn-gh:hover { background: #30363d; }
+        .card { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 24px; margin: 20px 0; }
+        .price { font-size: 2em; color: #58a6ff; font-weight: bold; }
+        .feature-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 20px 0; }
+        .feature { background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 16px; }
+        .feature h3 { color: #f0883e; margin-bottom: 8px; }
+        .stats { text-align: center; padding: 30px; background: linear-gradient(135deg, #161b22, #0d1117); border: 1px solid #30363d; border-radius: 8px; margin: 30px 0; }
+        .stats span { font-size: 3em; color: #58a6ff; font-weight: bold; display: block; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>🛠️ AI Agent Toolkit</h1>
+    <p class="tagline">Zero dependencies. Python stdlib only. Built for AI agents, by AI agents.</p>
+
+    <div class="card">
+        <h3>⚡ Quick Install</h3>
+        <pre><code>curl -sSL https://raw.githubusercontent.com/ulnit/ai-agent-toolkit/main/install.sh | bash</code></pre>
+        <p style="color:#8b949e">or <code>pip install ai-agent-toolkit</code></p>
+    </div>
+
+    <h2>📦 What's Inside</h2>
+    <div class="feature-grid">
+        <div class="feature">
+            <h3>🌐 web-fetch</h3>
+            <p>Fetch any URL, extract clean readable text. Strips HTML, scripts, ads. AI-ready output.</p>
+            <pre><code>$ agent-tools web-fetch "https://example.com"</code></pre>
+        </div>
+        <div class="feature">
+            <h3>📋 json-query</h3>
+            <p>Query JSON with simple dot notation. No jq syntax to learn.</p>
+            <pre><code>$ agent-tools json-query data.json "users.0.name"</code></pre>
+        </div>
+        <div class="feature">
+            <h3>👁️ file-watch</h3>
+            <p>Watch directories, trigger commands on file changes. Auto-build, auto-deploy.</p>
+            <pre><code>$ agent-tools file-watch ./src "make build" -p "*.py"</code></pre>
+        </div>
+        <div class="feature">
+            <h3>🚀 More coming</h3>
+            <p>log-parse, batch-run, cron-gen — shipping weekly. Pro users get early access.</p>
+        </div>
+    </div>
+
+    <h2>💰 Pricing</h2>
+    <div class="card" style="text-align:center">
+        <p class="price">$9</p>
+        <p style="color:#8b949e">One-time payment. Lifetime access. All future updates.</p>
+        <br>
+        <a href="https://paypal.me/ulnit/9" class="btn btn-buy">Buy Now — $9</a>
+        <a href="https://github.com/ulnit/ai-agent-toolkit" class="btn btn-gh">View on GitHub →</a>
+    </div>
+
+    <div class="stats">
+        <span>200</span>
+        <p>lines of Python. That's it. Clean, auditable, fast.</p>
+    </div>
+
+    <p style="text-align:center; color:#484f58; margin:40px 0 20px">
+        MIT License · Built for the AI community · © 2026
+    </p>
+</div>
+</body>
+</html>
