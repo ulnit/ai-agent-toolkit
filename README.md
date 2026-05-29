@@ -50,7 +50,7 @@ Great for auto-reloading dev servers, triggering AI pipelines on new data.
 **Pro tier**: $9 one-time — unlimited usage + priority support  
 **Team tier**: $29 — commercial use + custom integrations
 
-[Buy Pro - $9](https://www.paypal.com/instantcommerce/checkout/EXAMPLE) | [Buy Team - $29](https://www.paypal.com/instantcommerce/checkout/EXAMPLE)
+[Buy Pro - $9](https://paypal.me/ulnit/9) | [Buy Team - $29](https://paypal.me/ulnit/29)
 
 ---
 
