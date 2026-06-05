@@ -55,4 +55,19 @@ Great for auto-reloading dev servers, triggering AI pipelines on new data.
 ---
 
 Built with ❤️ for the AI agent community. MIT License.
-\n\n---\n\n## 🔗 Related Products\n\n| Product | Description | Price |\n|---------|-------------|-------|\n| [🛠️ AI Agent Toolkit](https://github.com/ulnit/ai-agent-toolkit) | Zero-dependency CLI tools for AI developers | $9 |\n| [🧩 AI Text Pro](https://github.com/ulnit/ai-chrome-extension) | Chrome extension for AI-powered writing | $5 |\n| [📝 AI Resume Optimizer](https://github.com/ulnit/ai-resume-optimizer) | ATS-friendly resume analysis & enhancement | $5-15 |\n| [🏪 Agent Store](https://github.com/ulnit/agent-store) | Unified product landing page | FREE |\n| [🔌 AI API Gateway](https://github.com/ulnit/ai-api-gateway) | White-label AI model access reselling | $9/mo |\n| [🎬 AI Video Factory](https://github.com/ulnit/ai-video-factory) | Fully automated video content pipeline | $9/mo |\n\n> 🏪 [View All 19 Products →](https://ulnit.github.io/agent-store)\n
+
+---
+
+## 🔗 Related Products
+
+| Product | Description | Price |
+|---------|-------------|-------|
+| [🛠️ AI Agent Toolkit](https://github.com/ulnit/ai-agent-toolkit) | Zero-dependency CLI tools for AI developers | $9 |
+| [🎨 AI Thumbnail Pro](https://github.com/ulnit/ai-thumbnail-pro) | AI thumbnail & social graphics generator | $5 |
+| [📱 AI Social Media Kit](https://github.com/ulnit/ai-social-kit) | Cross-platform auto posting engine | $7 |
+| [🏗️ AI Landing Page Factory](https://github.com/ulnit/ai-landing-factory) | Auto SEO landing page generator | $9 |
+| [🎬 AI Video Factory](https://github.com/ulnit/ai-video-factory) | Fully automated video content pipeline | $9/mo |
+| [🔌 AI API Gateway](https://github.com/ulnit/ai-api-gateway) | White-label AI model access reselling | $9/mo |
+| [📝 AI Resume Optimizer](https://github.com/ulnit/ai-resume-optimizer) | ATS-friendly resume analysis & enhancement | $5-15 |
+
+> 🏪 [View All 23 Products →](https://ulnit.github.io/agent-store)
