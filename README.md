@@ -1,6 +1,12 @@
 # 🛠️ AI Agent Toolkit
 
-**Production-ready CLI tools for AI agent developers.** Zero dependencies. Python stdlib only.
+**Production-ready CLI tools for AI agent developers and AI agent templates.** Zero dependencies. Python stdlib only. Runs on Raspberry Pi and any Linux server — one of the most practical **Raspberry Pi AI products** for agent automation, **AI video automation** pipelines, and **AI API reselling** infrastructure.
+
+## 🌟 Featured In
+
+This product is part of the **[ulnit Agent Store](https://ulnit.github.io/agent-store)** — 23 AI-powered products running 24/7 on a $35 Raspberry Pi.
+
+> 💡 **Power Pairing:** Use this toolkit with **[AI API Gateway](https://github.com/ulnit/ai-api-gateway)** for AI API reselling infrastructure, **[AI Video Factory](https://github.com/ulnit/ai-video-factory)** for AI video automation, and **[Agent Templates](https://github.com/ulnit/agent-templates)** for pre-built AI agent templates — all deployable on a single Raspberry Pi.
 
 ## Quick Install
 ```bash
@@ -43,6 +49,14 @@ Great for auto-reloading dev servers, triggering AI pipelines on new data.
 | AI-friendly output | ✅ Clean text, structured JSON | Raw HTML/XML |
 | Pipeable | ✅ stdin/stdout | Limited |
 | Size | **< 200 lines** | 1000s of lines |
+| Raspberry Pi Ready | ✅ Runs on Pi 4/5 with 4GB RAM | Most require x86 servers |
+
+### Use Cases
+
+- **AI API reselling** — Use `web-fetch` + `json-query` to scrape competitor pricing, monitor API availability, and automate your AI API gateway dashboard
+- **AI video automation** — Use `file-watch` to trigger video generation pipelines (AI Video Factory, ffmpeg) when new scripts or images appear
+- **AI agent templates** — Build custom agent scaffolding with `json-query` parsing config files, then deploy on Raspberry Pi with zero overhead
+- **Raspberry Pi AI products** — The entire toolkit runs on a $35 Pi, making it perfect for low-cost, 24/7 AI automation servers
 
 ## Pricing
 
